@@ -1,0 +1,29 @@
+#qwe{
+    padding-top: 3em;
+    padding-left: 4em;
+}
+#qwe #text2{
+    padding-top: 3em;
+}
+#qwe #text3 #sd{
+    text-decoration: none;
+    color:rgb(44, 160, 160);
+    font-weight: bolder;
+}
+.body1{
+    padding-top: 3em;
+    padding-left: 10em;
+}
+.body1 .kj{
+    float: left;
+    padding: 3em;
+    padding-top: 4em;
+    padding-left: 1em;
+}
+.body1 .kj #ew{
+    color:rgb(52, 160, 160);
+    font-weight: bolder;
+}
+.body1 .kj #we{
+    font-size: small;
+}

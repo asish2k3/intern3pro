@@ -1,0 +1,36 @@
+
+#abc{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 2em;
+}
+.asish1{
+    padding: 3em;
+    padding-left: 95px;
+    float:left;    
+}
+
+.asish2{
+    padding: 1em;
+    padding-left: 100px;
+    float: left;
+}
+.asish1 #firstone{
+    font-weight: bolder;
+    line-height: 25px;
+}
+.asish2 #firstone{
+    font-weight: bolder;
+    font-size:medium;
+}
+.asish1 #secondone{
+    padding-top: 20px;
+    line-height: 25px;
+    font-size: small;
+}
+.asish2 #secondone{
+    padding-top: 20px;
+    line-height: 25px;
+    font-size: small;
+}
